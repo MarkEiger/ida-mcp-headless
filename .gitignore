@@ -1,0 +1,4 @@
+# Machine-specific config; copy ida_mcp_start.example.json
+ida_mcp_start.json
+logs/
+__pycache__/

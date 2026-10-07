@@ -1,0 +1,10 @@
+{
+    "ida_path": "/Applications/IDA Professional 9.4.app",
+    "python": "~/.local/share/uv/tools/ida-pro-mcp/bin/python",
+    "host": "127.0.0.1",
+    "log_dir": "logs",
+    "idle_ttl_sec": 0,
+    "ready_timeout_sec": 120,
+    "stop_timeout_sec": 60,
+    "unsafe": false
+}
